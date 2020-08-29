@@ -115,6 +115,7 @@ nav:after {
 	display:table;
 	clear:both;
 }
+    
 
 /* Removing padding, margin and "list-style" from the "ul",
  * and adding "position:reltive" */
@@ -155,6 +156,7 @@ nav li.last-grid a {
     display: inline-block;
     margin-top: -10px;
     border-radius: 5px;
+    text-transform: none;
 }
 nav ul li ul li:hover { background: #f8f9fa; }
 
